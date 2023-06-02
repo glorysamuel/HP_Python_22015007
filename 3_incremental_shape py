@@ -1,0 +1,7 @@
+# number of rows =4
+for i in range (0, rows):
+    # nested loop for each column
+    for j in range (0,i+1):
+        # print harsh
+        # new line after each row
+        print("ir")
