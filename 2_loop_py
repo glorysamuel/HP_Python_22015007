@@ -1,0 +1,9 @@
+for c in range (1,101):
+    if c % 3 ==0 and c % 5==O
+     print (”couple", end="," 
+ elif c % 3==0:
+     print("boys",end=",")
+ elif c % 5==0:
+     print ("girls",end=","
+  else:
+     print(c,end=",")
